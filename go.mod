@@ -1,4 +1,4 @@
-module github.com/emauton/protos/rocket/v1
+module github.com/emauton/protos
 
 go 1.19
 
